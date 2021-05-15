@@ -10,7 +10,7 @@ R 4: (1 sc in next 2 sc, 2 sc in next sc) * 4. 16st
 
 R 5: (1 sc in next 3 sc, 2 sc in next sc) * 4. 20st
 
-R 6-7: sc in each sc. 20st
+R 6: sc in each sc. 20st
 
 Close with 1 sl.
 
